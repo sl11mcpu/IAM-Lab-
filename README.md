@@ -37,11 +37,11 @@ I created three primary user identities, each with granular attributes (Job Titl
 
 | 1. High-Level User Directory | 2. Security Group Hierarchy |
 | :---: | :---: |
-| ![User Directory](./images/users_redacted.png) | ![Group Hierarchy](./images/groups_redacted.png) |
+| ![User Directory](./users_redacted.png) | ![Group Hierarchy](./groups_redacted.png) |
 
 | 3. Granular User Attributes (Teller One Properties) |
 | :---: |
-| ![User Properties](./images/properties_redacted.png) |
+| ![User Properties](./properties_redacted.png) |
 
 ---
 
